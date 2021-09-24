@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">quiz_wiele</string>
+    <string name="check">Sprawdź</string>
+    <string name="p1">Najwyższy szczyt w Bieszczadach:</string>
+    <string name="p1odp_a">Rysy</string>
+    <string name="p1odp_b">Śnieżka</string>
+    <string name="p1odp_c">Tarnica</string>
+    <string name="p2">Które góry są w Bieszczadach?</string>
+    <string name="p2odp_a">Rysy</string>
+    <string name="p2odp_b">Tarnica</string>
+    <string name="p2odp_c">Krzemieniec</string>
+    <string name="p3">Połoniny w Bieszczadach</string>
+    <string name="p3odp_a">Wetlińska</string>
+    <string name="p3odp_b">Morska</string>
+    <string name="p3odp_c">Caryńska</string>
+</resources>
